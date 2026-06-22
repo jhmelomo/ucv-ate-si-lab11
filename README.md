@@ -21,3 +21,7 @@ python -m src.main
 ## Pruebas
 ```bash
 pytest --cov=src --cov-report=term-missing
+
+## Tic Tac Toe
+```bash
+python -m src.tic_tac_toe

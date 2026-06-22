@@ -30,3 +30,8 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+def jugar_tres_en_raya():
+    from src.tic_tac_toe import Juego
+    Juego().jugar()
